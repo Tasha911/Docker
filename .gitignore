@@ -4,4 +4,5 @@
 !/application.properties
 !/docker-compose.yml
 !/README.md
+!/screenshot.png
 !/.gitignore
