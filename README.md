@@ -1,1 +1,1 @@
-![](C:\Users\Natalia\IdeaProjects\docker\.git\screenshot.png)
+![screenshot](screenshot.png)
