@@ -1,0 +1,7 @@
+*
+
+!/db-api.jar
+!/application.properties
+!/docker-compose.yml
+!/README.md
+!/.gitignore
