@@ -1,1 +1,1 @@
-![img.png](img.png)
+![](C:\Users\Natalia\IdeaProjects\docker\.git\Снимок экрана 2026-04-28 054912.png)
